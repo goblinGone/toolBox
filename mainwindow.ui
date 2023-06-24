@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>585</width>
+    <width>594</width>
     <height>224</height>
    </rect>
   </property>
@@ -26,6 +26,9 @@
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
       <widget class="QPushButton" name="pushButton">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(249, 240, 107);</string>
+       </property>
        <property name="text">
         <string>Film Picker</string>
        </property>
@@ -45,6 +48,9 @@
     <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
       <widget class="QPushButton" name="pushButton_2">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(249, 240, 107);</string>
+       </property>
        <property name="text">
         <string>Lottery Numbers</string>
        </property>
@@ -64,6 +70,11 @@
     <layout class="QVBoxLayout" name="verticalLayout_3">
      <item>
       <widget class="QPushButton" name="pushButton_3">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(249, 240, 107);
+
+</string>
+       </property>
        <property name="text">
         <string>password gen</string>
        </property>
@@ -83,6 +94,9 @@
     <layout class="QVBoxLayout" name="verticalLayout_4">
      <item>
       <widget class="QPushButton" name="pushButton_4">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(249, 240, 107);</string>
+       </property>
        <property name="text">
         <string>text cypher</string>
        </property>
@@ -96,7 +110,7 @@
       <x>200</x>
       <y>10</y>
       <width>351</width>
-      <height>151</height>
+      <height>71</height>
      </rect>
     </property>
    </widget>
@@ -119,7 +133,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>585</width>
+     <width>594</width>
      <height>23</height>
     </rect>
    </property>
